@@ -1,4 +1,4 @@
-Feature: This is a UI application test Feature
+Feature: This is an UI application Test Feature using  seleniun
 
 
 @UItest
