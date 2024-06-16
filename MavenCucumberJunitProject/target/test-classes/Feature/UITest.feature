@@ -1,4 +1,4 @@
-Feature: This is an UI application Test Feature using  seleniun
+Feature: This is an UI application Test Feature using  selenium code would be checked in develop
 
 
 @UItest
