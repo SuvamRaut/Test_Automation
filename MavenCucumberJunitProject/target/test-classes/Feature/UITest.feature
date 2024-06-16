@@ -1,4 +1,6 @@
 Feature: This is a UI application test Feature
+
+
 @UItest
 Scenario Outline: To test the login Functionality
 
